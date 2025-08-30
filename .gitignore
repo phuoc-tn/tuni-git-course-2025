@@ -1,4 +1,4 @@
 # Ignore file types
-.in
-.out
-.pyc
+*.in
+*.out
+*.pyc
