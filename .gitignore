@@ -1,4 +1,5 @@
-# Ignore file types
+# Ignore files/file types
 *.in
 *.out
 *.pyc
+.DS_Store
